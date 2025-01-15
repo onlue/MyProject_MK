@@ -1,1 +1,1 @@
-file to delete
+merge conflict file 1
