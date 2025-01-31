@@ -23,3 +23,4 @@ let a = ["summer", "winter", "spring", "autumn"]
 for item in a{
     print("Сезон: \(item)")
 }
+print("Изменен первым пользователем")
