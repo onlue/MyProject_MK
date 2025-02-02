@@ -18,9 +18,12 @@ for item in a{
 }
 
 //Сезоны года Добавил второй пользователь
-let a = ["summer", "winter", "spring", "autumn"]
+let b = ["summer", "winter", "spring", "autumn"]
 
-for item in a{
+for item in b{
     print("Сезон: \(item)")
 }
 print("Изменен первым пользователем")
+
+
+let summer = b[0] // Добавил переменную лета
