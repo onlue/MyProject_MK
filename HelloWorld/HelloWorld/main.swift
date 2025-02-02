@@ -29,3 +29,4 @@ print("Изменен первым пользователем")
 let summer = b[0] // Добавил переменную лета
 
 let winter = b[1] // -user1 тоже добавил
+let spring = b[2] // spring var
